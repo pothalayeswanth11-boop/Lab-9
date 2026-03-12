@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1773164036673" clover="3.2.0">
+  <project timestamp="1773164036674" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10" elements="32" coveredelements="32" complexity="0" loc="18" ncloc="18" packages="2" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="App.jsx" path="C:\Users\potha\OneDrive\FWD-2 S6\Labs\lab9\src\App.jsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <file name="CartSummary.jsx" path="C:\Users\potha\OneDrive\FWD-2 S6\Labs\lab9\src\components\CartSummary.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+      </file>
+      <file name="ProductCard.jsx" path="C:\Users\potha\OneDrive\FWD-2 S6\Labs\lab9\src\components\ProductCard.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="13" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+      <file name="ProductList.jsx" path="C:\Users\potha\OneDrive\FWD-2 S6\Labs\lab9\src\components\ProductList.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="12" count="11" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
